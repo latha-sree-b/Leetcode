@@ -14,4 +14,4 @@ Daily Challenge if within my ability
 Latest Solutions
 Problem | Difficulty | Solution | Topics |
 |------|---------|------------|----------|
-1.Two-sum|Easy|two-sum.java|Array,HashMap
+1.Two-sum|Easy|https://leetcode.com/problems/two-sum/|Array,HashMap
