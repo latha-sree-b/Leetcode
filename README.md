@@ -16,3 +16,4 @@ Problem | Difficulty | Solution | Topics |
 |------|---------|------------|----------|
 1.Two-sum|Easy|[Two-sum](https://github.com/latha-sree-b/Leetcode/blob/main/1-two-sum/two-sum.java)|Array,HashMap|
 2.Add-Two-numbers|Medium|[Add-Two-numbers](https://github.com/latha-sree-b/Leetcode/blob/main/2-add-two-numbers/add-two-numbers.java)|Linked List,Recursion,Math|
+9.Palindrome-Number|Easy|[palindrome-number]()|Math|
