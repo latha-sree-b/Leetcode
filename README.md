@@ -1,5 +1,5 @@
-###LeetCode Java Solutions
-
+LeetCode Java Solutions
+----
      
 
 Hi 👋, I'm Latha Sree and welcome to LeetCode Solutions in Java.
