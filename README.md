@@ -18,3 +18,4 @@ Problem | Difficulty | Solution | Topics |
 2.Add-Two-numbers|Medium|[Add-Two-numbers](https://github.com/latha-sree-b/Leetcode/blob/main/2-add-two-numbers/add-two-numbers.java)|Linked List,Recursion,Math|
 9.Palindrome-Number|Easy|[palindrome-number](https://github.com/latha-sree-b/Leetcode/blob/main/9-palindrome-number/palindrome-number.java)|Math|
 13.Roman-to-integer|Easy|[Roman-to-Integer](https://github.com/latha-sree-b/Leetcode/tree/main/13-roman-to-integer)|Math|
+14.Longest-common-prefix|Easy|[Longest-common-prefix]()|Array,String,Trie|
