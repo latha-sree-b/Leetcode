@@ -19,3 +19,4 @@ Problem | Difficulty | Solution | Topics |
 9.Palindrome-Number|Easy|[palindrome-number](https://github.com/latha-sree-b/Leetcode/blob/main/9-palindrome-number/palindrome-number.java)|Math|
 13.Roman-to-integer|Easy|[Roman-to-Integer](https://github.com/latha-sree-b/Leetcode/tree/main/13-roman-to-integer)|Math|
 14.Longest-common-prefix|Easy|[Longest-common-prefix](https://github.com/latha-sree-b/Leetcode/blob/main/14-longest-common-prefix/longest-common-prefix.java)|Array,String,Trie|
+20.Valid-Parentheses|Easy|[Valid-Parenthese](https://github.com/latha-sree-b/Leetcode/blob/main/20-valid-parentheses/valid-parentheses.java)|String,Stack|
