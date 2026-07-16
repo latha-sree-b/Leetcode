@@ -20,7 +20,4 @@ Problem | Difficulty | Solution | Topics |
 13.Roman-to-integer|Easy|[Roman-to-Integer](https://github.com/latha-sree-b/Leetcode/tree/main/13-roman-to-integer)|Math|
 14.Longest-common-prefix|Easy|[Longest-common-prefix](https://github.com/latha-sree-b/Leetcode/blob/main/14-longest-common-prefix/longest-common-prefix.java)|Array,String,Trie|
 20.Valid-Parentheses|Easy|[Valid-Parenthese](https://github.com/latha-sree-b/Leetcode/blob/main/20-valid-parentheses/valid-parentheses.java)|String,Stack|
-3.Longest-substring-without-repetation|Medium|[Longest-substring-without-repetation](https://github.com/latha-sree-b/Leetcode/tree/main/3-longest-substring-without-repeating-characters)|Staff
-Hash Table
-String
-Sliding Window|
+3.Longest-substring-without-repetation|Medium|[Longest-substring-without-repetation](https://github.com/latha-sree-b/Leetcode/tree/main/3-longest-substring-without-repeating-characters)|Staff,Hash Table,String,Sliding Window|
